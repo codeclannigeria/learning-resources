@@ -1,2 +1,2 @@
 # learning-resources
-All the learning resources in one place
+All the FREE learning resources in one place. These resources are strictly recommended.
