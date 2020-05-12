@@ -23,6 +23,8 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 ## Mobile Development
 
+- [Introduction to Flutter](https://www.appbrewery.co/p/intro-to-flutter)
+
 ## UI/UX Design
 
 ## Data Science/ Machine Learning
