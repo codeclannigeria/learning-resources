@@ -30,6 +30,10 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 - [Introduction to Flutter](https://www.appbrewery.co/p/intro-to-flutter)
 
+## DevOps
+
+- [AWS DevOps CI/CD](https://www.udemy.com/course/nodejs-cicd-aws-codepipeline-codebuild-mocha-zero-to-hero/)- CodePipeline, Elastic Beanstalk and Mocha
+
 ## UI/UX Design
 
 ## Data Science/ Machine Learning
