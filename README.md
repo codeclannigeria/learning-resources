@@ -4,7 +4,13 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 ## Table of Contents
 
-- [Frontend Development](https://github.com/codeclannigeria/learning-resources#frontend-development)
+- [Frontend Development](#frontend-development)
+- [Backend Development](#backend-development)
+- [Mobile Development](#mobile-development)
+- [UI/UX Design](#uiux-design)
+- [DevOps](#devops)
+- [Data Science/ Machine Learning](#data-science-machine-learning)
+- [Contributing](#contributing)
 
 ## Frontend Development
 
