@@ -21,6 +21,8 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 ## Backend Development
 
+- [Node.js, Express & MongoDb: Build a CRUD Rest Api](https://bezkoder.com/node-express-mongodb-crud-rest-api/)
+
 ## Mobile Development
 
 - [Introduction to Flutter](https://www.appbrewery.co/p/intro-to-flutter)
