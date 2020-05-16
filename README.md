@@ -40,9 +40,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 ## DevOps
 
-- [AWS DevOps CI/CD](https://www.udemy.com/course/nodejs-cicd-aws-codepipeline-codebuild-mocha-zero-to-hero/)- CodePipeline, Elastic Beanstalk and Mocha
+- [AWS DevOps CI/CD](https://www.udemy.com/course/nodejs-cicd-aws-codepipeline-codebuild-mocha-zero-to-hero/) - CodePipeline, Elastic Beanstalk and Mocha
 
 ## UI/UX Design
+
+- [UI/UX Design Articles](https://www.notion.so/Design-Articles-Resources-ddaa7bfb624f4f61a8669ebc1b175b5d) - UI/UX Design Articles and Resources
 
 ## Data Science/ Machine Learning
 
