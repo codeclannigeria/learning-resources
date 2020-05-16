@@ -27,6 +27,8 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 ## Backend Development
 
+- [Backend Developer Roadmap](https://roadmap.sh/backend) - A roadmap to becoming a backend developer
+
 - [Node.js, Express & MongoDb: Build a CRUD Rest Api](https://bezkoder.com/node-express-mongodb-crud-rest-api/)
 - [Node JS API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/)
 - [The Complete NestJS](https://www.udemy.com/course/the-complete-nestjs-developer-enterprise-nodejs-framework/)
