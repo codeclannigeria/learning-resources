@@ -21,6 +21,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Learn CSSGrid](https://cssgrid.io/)
 - [Bootstrap Crash Course](https://www.youtube.com/watch?v=JFCE6iDMmgg&list=PL0JqkD3WB5bbSoV-mnRxtro7o6RA_-KPp)
 - [Javascript Tutorial](https://www.youtube.com/watch?v=oqQE3QnXIqQ&list=PL0JqkD3WB5bYQs3RG0yXuRgy_hcIp1K6o)
+- [JavaScript DOM crash course](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
 - [React JS Crash Course](https://www.youtube.com/watch?v=U90QE3P48IM&list=PL0JqkD3WB5bYU1x0a19TTX6kno88fU1bC)
 - [React Hooks](https://www.youtube.com/watch?v=KBUZ4_I75w4&list=PL0JqkD3WB5bZH4yMOuezN9ImyPG7plLof)
 - [React JS Projects](https://www.youtube.com/watch?v=fxMSrgfsXj8&list=PL0JqkD3WB5bZ_27wAfCGTNd2Tn5BBnqdd)
@@ -28,7 +29,6 @@ All the FREE learning resources in one place. These resources are strictly recom
 ## Backend Development
 
 - [Backend Developer Roadmap](https://roadmap.sh/backend) - A roadmap to becoming a backend developer
-
 - [Node.js, Express & MongoDb: Build a CRUD Rest Api](https://bezkoder.com/node-express-mongodb-crud-rest-api/)
 - [Node JS API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/)
 - [The Complete NestJS](https://www.udemy.com/course/the-complete-nestjs-developer-enterprise-nodejs-framework/)
