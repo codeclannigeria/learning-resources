@@ -25,6 +25,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [React JS Crash Course](https://www.youtube.com/watch?v=U90QE3P48IM&list=PL0JqkD3WB5bYU1x0a19TTX6kno88fU1bC)
 - [React Hooks](https://www.youtube.com/watch?v=KBUZ4_I75w4&list=PL0JqkD3WB5bZH4yMOuezN9ImyPG7plLof)
 - [React JS Projects](https://www.youtube.com/watch?v=fxMSrgfsXj8&list=PL0JqkD3WB5bZ_27wAfCGTNd2Tn5BBnqdd)
+- [Vue Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U)
 
 ## Backend Development
 
