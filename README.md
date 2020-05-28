@@ -26,6 +26,8 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [React Hooks](https://www.youtube.com/watch?v=KBUZ4_I75w4&list=PL0JqkD3WB5bZH4yMOuezN9ImyPG7plLof)
 - [React JS Projects](https://www.youtube.com/watch?v=fxMSrgfsXj8&list=PL0JqkD3WB5bZ_27wAfCGTNd2Tn5BBnqdd)
 - [Vue Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U)
+- [Learn Vue on Scrimba](https://scrimba.com/course/glearnvue)
+- [Build and deploy a Portfolio](https://scrimba.com/course/gportfolio)
 
 ## Backend Development
 
@@ -34,6 +36,8 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Node JS API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/)
 - [The Complete NestJS](https://www.udemy.com/course/the-complete-nestjs-developer-enterprise-nodejs-framework/)
 - [Learn MongoDB for Node.js](https://www.udemy.com/course/mongoosejs-essentials/)
+- [Learn MongoDB](https://university.mongodb.com/)
+- [Learn C#](https://dotnet.microsoft.com/learn/csharp)
 
 ## Mobile Development
 
@@ -43,6 +47,22 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 - [AWS DevOps CI/CD](https://www.udemy.com/course/nodejs-cicd-aws-codepipeline-codebuild-mocha-zero-to-hero/) - CodePipeline, Elastic Beanstalk and Mocha
 
+- [Azure Devops Engineer Path on Pluralsight (Free)](https://app.pluralsight.com/channels/details/46aa40c5-1342-477f-8d49-122caceb6cbc)
+
+-[Learn Devops](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
+
+- [Ms Learn Devops Engineer Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
+
+- [Cloud Bees University - Jenkins Fundamentals](https://standard.cbu.cloudbees.com/cloudbees-university-jenkins-fundamentals)
+
+-[Introduction to AWS](https://aws.amazon.com/getting-started/?nc2=h_ql_le_gs)
+
+- [Docker Essentials](https://www.udemy.com/course/docker-essentials/)
+
+-[MsBuild Cloud Skills Challenge (Free certification Vouchers)](https://mybuild.microsoft.com/cloud-skills-challenge)
+
+-[Ansible Fundamentals](https://www.udemy.com/course/ansible-essentials-simplicity-in-automation/)
+
 ## UI/UX Design
 
 - [UI/UX Design Articles](https://www.notion.so/Design-Articles-Resources-ddaa7bfb624f4f61a8669ebc1b175b5d) - UI/UX Design Articles and Resources
@@ -50,7 +70,9 @@ All the FREE learning resources in one place. These resources are strictly recom
 ## Data Science/ Machine Learning
 
 ---
+- [AWS Machine learning scholarship Challenge on Udacity (ends July 31st, 2020)](https://sites.google.com/udacity.com/aws-machine-learning/faqs/scholarship-faqs?authuser=0)
 
+- [Machine Learning on dotnet](https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro)
 ## Contributing
 
 Want to add a resource you can recommend? Please send a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
