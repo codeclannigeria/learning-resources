@@ -55,13 +55,13 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 - [Cloud Bees University - Jenkins Fundamentals](https://standard.cbu.cloudbees.com/cloudbees-university-jenkins-fundamentals)
 
--[Introduction to AWS](https://aws.amazon.com/getting-started/?nc2=h_ql_le_gs)
+- [Introduction to AWS](https://aws.amazon.com/getting-started/?nc2=h_ql_le_gs)
 
 - [Docker Essentials](https://www.udemy.com/course/docker-essentials/)
 
--[MsBuild Cloud Skills Challenge (Free certification Vouchers)](https://mybuild.microsoft.com/cloud-skills-challenge)
+- [MsBuild Cloud Skills Challenge (Free certification Vouchers)](https://mybuild.microsoft.com/cloud-skills-challenge)
 
--[Ansible Fundamentals](https://www.udemy.com/course/ansible-essentials-simplicity-in-automation/)
+- [Ansible Fundamentals](https://www.udemy.com/course/ansible-essentials-simplicity-in-automation/)
 
 ## UI/UX Design
 
