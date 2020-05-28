@@ -49,7 +49,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 - [Azure Devops Engineer Path on Pluralsight (Free)](https://app.pluralsight.com/channels/details/46aa40c5-1342-477f-8d49-122caceb6cbc)
 
--[Learn Devops](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
+- [Learn Devops](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
 
 - [Ms Learn Devops Engineer Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
 
