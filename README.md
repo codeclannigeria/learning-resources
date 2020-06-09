@@ -59,7 +59,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 - [Docker Essentials](https://www.udemy.com/course/docker-essentials/)
 
--[MsBuild Cloud Skills Challenge (Free certification Vouchers)](https://mybuild.microsoft.com/cloud-skills-challenge)
+-[Learn Terraform](https://learn.hashicorp.com/terraform)
 
 -[Ansible Fundamentals](https://www.udemy.com/course/ansible-essentials-simplicity-in-automation/)
 
