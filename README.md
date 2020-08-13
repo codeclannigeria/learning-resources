@@ -38,7 +38,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Learn MongoDB for Node.js](https://www.udemy.com/course/mongoosejs-essentials/)
 - [Learn MongoDB](https://university.mongodb.com/)
 - [Learn C#](https://dotnet.microsoft.com/learn/csharp)
-- [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)
+- [Django (2.0): An Introduction for Beginners (Playlist)](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
 - [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y&t=151s)
 - [Build an API with DjangoBuild an API with Django](https://www.youtube.com/watch?v=RPsDhoWY_kc&list=PLLRM7ROnmA9HzbIXYN6D3wOZ0wUrqNs_d)
 
