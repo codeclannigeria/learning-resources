@@ -38,6 +38,9 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Learn MongoDB for Node.js](https://www.udemy.com/course/mongoosejs-essentials/)
 - [Learn MongoDB](https://university.mongodb.com/)
 - [Learn C#](https://dotnet.microsoft.com/learn/csharp)
+- [Django (2.0): An Introduction for Beginners (Playlist)](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
+- [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y&t=151s)
+- [Build an API with DjangoBuild an API with Django](https://www.youtube.com/watch?v=RPsDhoWY_kc&list=PLLRM7ROnmA9HzbIXYN6D3wOZ0wUrqNs_d)
 
 ## Mobile Development
 
@@ -70,9 +73,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 ## Data Science/ Machine Learning
 
 ---
+
 - [AWS Machine learning scholarship Challenge on Udacity (ends July 31st, 2020)](https://sites.google.com/udacity.com/aws-machine-learning/faqs/scholarship-faqs?authuser=0)
 
 - [Machine Learning on dotnet](https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro)
+
 ## Contributing
 
 Want to add a resource you can recommend? Please send a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
