@@ -27,6 +27,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [React JS Projects](https://www.youtube.com/watch?v=fxMSrgfsXj8&list=PL0JqkD3WB5bZ_27wAfCGTNd2Tn5BBnqdd)
 - [Vue Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U)
 - [Learn Vue on Scrimba](https://scrimba.com/course/glearnvue)
+- [Learn Angular](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 - [Build and deploy a Portfolio](https://scrimba.com/course/gportfolio)
 
 ## Backend Development
