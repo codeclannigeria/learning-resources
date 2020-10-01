@@ -45,6 +45,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 ## Mobile Development
 
 - [Introduction to Flutter](https://www.appbrewery.co/p/intro-to-flutter)
+- [The Complete Free Flutter Course By Ovidius Mazuru](https://www.youtube.com/channel/UCJW25d8mW8ciz0DQC-5XNsQ/videos)
 
 ## DevOps
 
