@@ -42,6 +42,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Django (2.0): An Introduction for Beginners (Playlist)](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
 - [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y&t=151s)
 - [Build an API with DjangoBuild an API with Django](https://www.youtube.com/watch?v=RPsDhoWY_kc&list=PLLRM7ROnmA9HzbIXYN6D3wOZ0wUrqNs_d)
+- [REST API Tutorials (Node, Express & Mongo) by Net Ninja] (https://www.youtube.com/playlist?list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8)
 
 ## Mobile Development
 
