@@ -29,7 +29,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Learn Vue on Scrimba](https://scrimba.com/course/glearnvue)
 - [Learn Angular](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 - [Build and deploy a Portfolio](https://scrimba.com/course/gportfolio)
-- [Fullstack Vue (From beginner to advanced)] (https://dl.ebooksworld.ir/motoman/fullstack-vue-book-r8.www.EBooksWorld.ir.pdf)
+- [Fullstack Vue (From beginner to advanced)](https://dl.ebooksworld.ir/motoman/fullstack-vue-book-r8.www.EBooksWorld.ir.pdf)
 - [React + Redux](https://www.sololearn.com/Course/react/) - React is appreciated for its simplicity, ease of learning, native approach, reusable component logic, performance, ease of testing and debugging.
 - [Angular + NestJS](https://www.sololearn.com/Course/fullstack/) - Angular course is combined with Nest JS for a full stack learning experience, and teaches core concepts of server- and client-side development.
 
@@ -45,7 +45,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Django (2.0): An Introduction for Beginners (Playlist)](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
 - [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y&t=151s)
 - [Build an API with DjangoBuild an API with Django](https://www.youtube.com/watch?v=RPsDhoWY_kc&list=PLLRM7ROnmA9HzbIXYN6D3wOZ0wUrqNs_d)
-- [REST API Tutorials (Node, Express & Mongo) by Net Ninja] (https://www.youtube.com/playlist?list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8)
+- [REST API Tutorials (Node, Express & Mongo) by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8)
 - [PHP](https://www.sololearn.com/Course/PHP/) - PHP enables you to create dynamic web pages, develop websites, and generate dynamic content. You’ll also be able to open files; write content to files; and create contact forms, forums, blogs, picture galleries, surveys, social networks, and a whole lot more.
 
 ## Mobile Development
