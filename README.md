@@ -29,6 +29,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Learn Vue on Scrimba](https://scrimba.com/course/glearnvue)
 - [Learn Angular](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 - [Build and deploy a Portfolio](https://scrimba.com/course/gportfolio)
+- [Fullstack Vue (From beginner to advanced)] (https://dl.ebooksworld.ir/motoman/fullstack-vue-book-r8.www.EBooksWorld.ir.pdf)
 
 ## Backend Development
 
