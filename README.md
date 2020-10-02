@@ -18,6 +18,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [HTML Crash Course](https://www.youtube.com/playlist?list=PLEu7Y7_blvLXlM820Uy30N8ay-eoZVyIK)
 - [CSS Crash Course](https://www.youtube.com/playlist?list=PLEu7Y7_blvLVwibRK9szNWmTios4OsLF2)
 - [Learn Emmet](https://www.youtube.com/watch?v=5KctnODbk8w&t=52s)
+  [learn HTML CSS JAVASCRIPT](https://progate.com/)
 - [Learn CSSGrid](https://cssgrid.io/)
 - [Bootstrap Crash Course](https://www.youtube.com/watch?v=JFCE6iDMmgg&list=PL0JqkD3WB5bbSoV-mnRxtro7o6RA_-KPp)
 - [Javascript Tutorial](https://www.youtube.com/watch?v=oqQE3QnXIqQ&list=PL0JqkD3WB5bYQs3RG0yXuRgy_hcIp1K6o)
