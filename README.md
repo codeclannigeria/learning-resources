@@ -10,6 +10,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [UI/UX Design](#uiux-design)
 - [DevOps](#devops)
 - [Data Science/ Machine Learning](#data-science-machine-learning)
+- [Practice Coding Problems](#Build-Coding-Logic)
 - [Contributing](#contributing)
 
 ## Frontend Development
@@ -99,6 +100,10 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) - TensorFlow is an open source machine learning framework which is largely used by developers now. It is used for implementing machine learning and deep learning applications and deploying models as web applications.
 
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+
+## Coding Problems
+
+- [Coding Problems](https://edabit.com/)
 
 ## Contributing
 
