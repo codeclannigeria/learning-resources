@@ -49,6 +49,8 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Build an API with DjangoBuild an API with Django](https://www.youtube.com/watch?v=RPsDhoWY_kc&list=PLLRM7ROnmA9HzbIXYN6D3wOZ0wUrqNs_d)
 - [REST API Tutorials (Node, Express & Mongo) by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8)
 - [PHP](https://www.sololearn.com/Course/PHP/) - PHP enables you to create dynamic web pages, develop websites, and generate dynamic content. You’ll also be able to open files; write content to files; and create contact forms, forums, blogs, picture galleries, surveys, social networks, and a whole lot more.
+- [Learn Ruby](https://www.udemy.com/course/ruby-for-absolute-beginners/)- Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. You can build web applications, web servers , system ustilities, database work , blogs , and many more. Some popular sites built using ruby include AirBnB, Hulu and Shopify 
+
 
 ## Mobile Development
 
@@ -93,7 +95,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 - [Machine Learning on dotnet](https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro)
 
-- [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python) - Machine Learning can be an incredibly beneficial tool to uncover hidden insights and predict future trends. 
+- [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python) - Machine Learning can be an incredibly beneficial tool to uncover hidden insights and predict future trends.
 
 - [Machine learning with Apache SystemML](https://cognitiveclass.ai/courses/machine-learning-apache-systemml) - Apache SystemML is a declarative style language designed for large-scale machine learning. It provides automatic generation of optimized runtime plans ranging from single-node, to in-memory, to distributed computations on Apache Hadoop and Apache Spark. SystemML algorithms are expressed in R-like or Python-like syntax that includes linear algebra primitives, statistical functions and ML-specific constructs.
 
