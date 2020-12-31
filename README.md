@@ -11,6 +11,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [DevOps](#devops)
 - [Data Science/ Machine Learning](#data-science-machine-learning)
 - [Practice Coding Problems](#Build-Coding-Logic)
+- [Arduino Basics](#Arduino)
 - [Contributing](#contributing)
 
 ## Frontend Development
@@ -106,6 +107,10 @@ All the FREE learning resources in one place. These resources are strictly recom
 ## Coding Problems
 
 - [Coding Problems](https://edabit.com/)
+
+## Arduino Basics
+
+- [Scroll LCD](https://www.arduino.cc/en/Tutorial/LibraryExamples/LiquidCrystalScroll)
 
 ## Contributing
 
