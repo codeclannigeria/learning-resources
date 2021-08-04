@@ -84,6 +84,9 @@ All the FREE learning resources in one place. These resources are strictly recom
 ## UI/UX Design
 
 - [UI/UX Design Articles](https://www.notion.so/Design-Articles-Resources-ddaa7bfb624f4f61a8669ebc1b175b5d) - UI/UX Design Articles and Resources
+- [UI / UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design) - UI / UX Design Specialization
+- [Digital Skills: User Experience](https://www.futurelearn.com/courses/digital-skills-user-experience) - User Experience by Accenture
+- [Product Design by Google](https://www.udacity.com/course/product-design--ud509) - Validation and UX through Design Sprints
 
 ## Data Science/ Machine Learning
 
