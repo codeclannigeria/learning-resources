@@ -83,7 +83,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Ansible Fundamentals](https://www.udemy.com/course/ansible-essentials-simplicity-in-automation/)
 
 
-## Git
+## Git/GitHub
 
 - [GitHub Guides](https://guides.github.com/activities/hello-world/)
 - [How To Use GitHub – Developers Collaboration Using GitHub](https://www.edureka.co/blog/how-to-use-github/)
@@ -127,6 +127,13 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Getting Started with GitHub CLI](https://onyxcode.net/gh-cli-getting-started)
 - [How to use Git and GitHub inside of VS Code Editor](https://blog.thefierycoder.tech/how-to-use-git-and-github-inside-of-vs-code-editor)
 - [Two Git commands you probably missed in your daily routine](https://thelinuxli.ch/two-git-commands-you-probably-missed-in-your-daily-routine)
+- [How to setup GitHub Actions on your Github repository](https://blog.bhanuteja.dev/30-git-commands-that-i-frequently-use)
+- [The most basic and essential GIT commands walkthrough](https://bearcub3.hashnode.dev/the-most-basic-and-essential-git-commands-walkthrough-ckgmw77b3012po9s188vag2ig)
+- [Don't overcomplicate git](https://h.daily-dev-tips.com/dont-overcomplicate-git)
+- [Learn the Basics of Git in Under 10 Minutes](https://nand.blog/git101)
+- [The Ultimate Guide to Git Commands](https://ankits.hashnode.dev/the-ultimate-guide-to-git-commands)
+
+
 
 ## UI/UX Design
 
