@@ -142,6 +142,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [How to Fix Git Always Asking for User Credentials](https://blog.bolajiayodeji.com/how-to-fix-git-always-asking-for-user-credentials)
 - [How to Fork a Repo on GitHub using your Mobile Device](https://sudoc.hashnode.dev/series/git-for-beginners)
 - [Git First Time Setup](https://blog.bolajiayodeji.com/git-first-time-setup)
+- [Git Cheat Sheet for Beginners and Intermediates](https://blog.bolajiayodeji.com/git-cheat-sheet-for-beginners-and-intermediates)
+- [Basics of Git](https://adarsh-thakur.hashnode.dev/series/basics-of-git)
+- [Git In-depth](https://frontendmasters.com/courses/git-in-depth/)
+- [Introduction to Git and GitHub - Offered By Google](https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation&utm_source=gg&utm_medium=sem&utm_campaign=11-GoogleITwithPython-ROW&utm_content=11-GoogleITwithPython-ROW&campaignid=9733806670&adgroupid=119184274733&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507191775308&hide_mobile_promo&gclid=CjwKCAjwxo6IBhBKEiwAXSYBs8cqMR-9WYlilq7CrcFTkE7wQT1K7qv1XDpTa5HtjEJckeoyiU6cpRoCyCgQAvD_BwE)
+- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
 
 
 ## UI/UX Design
