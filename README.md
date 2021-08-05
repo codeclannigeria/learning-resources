@@ -82,6 +82,18 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 - [Ansible Fundamentals](https://www.udemy.com/course/ansible-essentials-simplicity-in-automation/)
 
+
+## Git
+
+- [GitHub Guides](https://guides.github.com/activities/hello-world/)
+- [How To Use GitHub – Developers Collaboration Using GitHub](https://www.edureka.co/blog/how-to-use-github/)
+- [The beginner’s guide to Git & GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
+- [How To Contribute to Open Source: Getting Started with Git](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)
+- [How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)
+- [What is Commit Signing in Git?](https://www.freecodecamp.org/news/what-is-commit-signing-in-git/)
+- [How to Get Started with Version Control Using Git](https://www.freecodecamp.org/news/get-started-with-version-control-and-git/)
+- [How To Use Git: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+
 ## UI/UX Design
 
 - [UI/UX Design Articles](https://www.notion.so/Design-Articles-Resources-ddaa7bfb624f4f61a8669ebc1b175b5d) - UI/UX Design Articles and Resources
