@@ -174,8 +174,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Git Tutorial For Dummies](https://www.youtube.com/watch?v=mJ-qvsxPHpY)
 - [Git Tutorial for Beginners - The Basics](https://www.youtube.com/watch?v=ly4niPr9vUo)
 - [Git Tutorial for Beginners](https://www.youtube.com/watch?v=XF99kTmS2gg)
-
-
+- [Git & Github Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=iCKAWxfVWUY)
+- [Git Tutorial For Beginners - Kudvenkat](https://www.youtube.com/watch?v=WEmvT2YFlQw&list=PL6n9fhu94yhVwbuqXKuPzchWNjZ8GVcJa)
+- [Git and GitHub Beginner Tutorials](https://www.youtube.com/watch?v=-U-eUHI6euM&list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG)
+- [Git and GitHub Tutorials](https://www.youtube.com/watch?v=r50BKIFGCI0&list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)
+- [Git & GitHub Tutorials](https://www.youtube.com/watch?v=_bkT85B6n1U&list=PLzS3AYzXBoj8mX3WbzQDghYytnx2JqBrU)
 
 ## UI/UX Design
 
