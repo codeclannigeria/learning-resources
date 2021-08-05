@@ -103,6 +103,12 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [How to Write a Git Commit Message](https://mihaiviisan.hashnode.dev/everything-you-need-to-know-to-get-started-with-git-and-github-on-a-windows-machine)
 - [Git for beginners](https://sudoc.hashnode.dev/series/git-for-beginners)
 - [How to Connect GitHub to your GitBash in 5 simple steps](https://unclebigbay.com/how-to-connect-github-to-your-gitbash-in-5-simple-steps)
+- [Git & Github: All you need to know](https://nehasoni.hashnode.dev/git-and-github-all-you-need-to-know)
+- [How to Use Branches in Git – the Ultimate Cheatsheet](https://www.freecodecamp.org/news/how-to-use-branches-in-git/)
+- [Git Checkout Remote Branch Tutorial](https://www.freecodecamp.org/news/git-checkout-remote-branch-tutorial/)
+- [A Really Useful Git Command For Quickly Searching Text](https://blog.yogeshchavan.dev/a-really-useful-git-command-for-quickly-searching-text)
+- [Git Push to Remote Branch – How to Push a Local Branch to Origin](https://www.freecodecamp.org/news/git-push-to-remote-branch-how-to-push-a-local-branch-to-origin/)
+
 
 ## UI/UX Design
 
