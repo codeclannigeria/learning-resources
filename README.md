@@ -10,7 +10,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [UI/UX Design](#uiux-design)
 - [DevOps](#devops)
 - [Data Science/ Machine Learning](#data-science-machine-learning)
-- [Practice Coding Problems](#Build-Coding-Logic)
+- [Practice Coding Problems](#coding-problems)
 - [Contributing](#contributing)
 
 ## Frontend Development
