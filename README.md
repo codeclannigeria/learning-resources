@@ -137,6 +137,12 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [GIT INIT (Part-2)](https://apoorvtyagi.tech/git-init-part-2)
 - [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
 - [Introduction to Git-Adding an SSH Key](https://laasyasettyblog.hashnode.dev/introduction-to-git-adding-an-ssh-key)
+- [Understanding Git Terminologies : The Fun Way](https://hafsah.hashnode.dev/understanding-git-terminologies-the-fun-way-ckdet27bd003c42s13lsm5ry5)
+- [Baby Steps to Git and Version Control - Series 1](https://amarachiazubuike.com/baby-steps-to-git-and-version-control-series-1-ck36ciz5200eib1s1l5rscbdr)
+- [How to Fix Git Always Asking for User Credentials](https://blog.bolajiayodeji.com/how-to-fix-git-always-asking-for-user-credentials)
+- [How to Fork a Repo on GitHub using your Mobile Device](https://sudoc.hashnode.dev/series/git-for-beginners)
+- [Git First Time Setup](https://blog.bolajiayodeji.com/git-first-time-setup)
+
 
 ## UI/UX Design
 
