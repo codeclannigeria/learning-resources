@@ -108,6 +108,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Git Checkout Remote Branch Tutorial](https://www.freecodecamp.org/news/git-checkout-remote-branch-tutorial/)
 - [A Really Useful Git Command For Quickly Searching Text](https://blog.yogeshchavan.dev/a-really-useful-git-command-for-quickly-searching-text)
 - [Git Push to Remote Branch – How to Push a Local Branch to Origin](https://www.freecodecamp.org/news/git-push-to-remote-branch-how-to-push-a-local-branch-to-origin/)
+- [Git Switch Branch – How to Change the Branch in Git](https://www.freecodecamp.org/news/git-switch-branch/)
+- [How to Use Git and Git Workflows – a Practical Guide](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
+- [What is Git? A Beginner's Guide to Git Version Control](https://www.freecodecamp.org/news/how-git-branches-work/)
+- [How To Delete All Local Git Branches In One Go](https://catalins.tech/how-to-delete-all-local-git-branches-in-one-go)
+- [How To Delete a Git Branch Locally and Remotely](https://hashnode.com/post/how-to-delete-a-git-branch-locally-and-remotely-cknk32nc2004qwes12ck4hn3m)
 
 
 ## UI/UX Design
