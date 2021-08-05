@@ -113,6 +113,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [What is Git? A Beginner's Guide to Git Version Control](https://www.freecodecamp.org/news/how-git-branches-work/)
 - [How To Delete All Local Git Branches In One Go](https://catalins.tech/how-to-delete-all-local-git-branches-in-one-go)
 - [How To Delete a Git Branch Locally and Remotely](https://hashnode.com/post/how-to-delete-a-git-branch-locally-and-remotely-cknk32nc2004qwes12ck4hn3m)
+- [Renaming Your GitHub Projects](https://blog.benhammond.tech/renaming-your-github-projects)
+- [A Beginner's Guide to Git and Github](https://efeakhigbe.hashnode.dev/a-beginners-guide-to-git-and-github)
+- [Introduction to Git In 16 Minutes](https://vickyikechukwu.hashnode.dev/introduction-to-git-in-16-minutes)
+- [How to Create GitHub Draft Pull Requests](https://blog.idrisolubisi.com/how-to-create-github-draft-pull-requests)
+- [Start verifying your commits on GitHub in ~5 minutes](https://ozzie.sh/start-verifying-your-commits-on-github-in-5-minutes)
 
 
 ## UI/UX Design
