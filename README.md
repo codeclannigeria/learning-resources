@@ -93,6 +93,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [What is Commit Signing in Git?](https://www.freecodecamp.org/news/what-is-commit-signing-in-git/)
 - [How to Get Started with Version Control Using Git](https://www.freecodecamp.org/news/get-started-with-version-control-and-git/)
 - [How To Use Git: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+- [How To Use Git Effectively](https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively)
+- [How To Use Git Branches](https://www.digitalocean.com/community/tutorials/how-to-use-git-branches)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [How To Use Git: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+- [Know how Git works: Behind the Scenes!](https://sohamsshah.hashnode.dev/know-how-git-works-behind-the-scenes-aa40567082ba)
 
 ## UI/UX Design
 
