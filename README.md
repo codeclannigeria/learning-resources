@@ -155,6 +155,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Git: Become an Expert in Git & GitHub in 4 Hours](https://www.udemy.com/course/git-expert-4-hours/)
 - [Git Essentials: Mini Course](https://www.udemy.com/course/git-essentials-mini-course/)
 - [How Git Works- Plurasight](https://www.pluralsight.com/courses/how-git-works)
+- [Introduction to GitHub- The GitHub Training Team](https://lab.github.com/githubtraining/introduction-to-github)
+- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&t=934s)
+- [How to use GitHub | What is GitHub | Git and GitHub Tutorial | Edureka](https://www.youtube.com/watch?v=PQsJR8ci3J0)
+- [Git & GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+- [Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics](https://www.youtube.com/watch?v=0fKg7e37bQE)
 
 
 ## UI/UX Design
