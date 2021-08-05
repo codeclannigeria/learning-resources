@@ -9,7 +9,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Mobile Development](#mobile-development)
 - [UI/UX Design](#uiux-design)
 - [DevOps](#devops)
-- [Git/GitHub](#git)
+- [Git/GitHub](#gitgithub)
 - [Data Science/ Machine Learning](#data-science-machine-learning)
 - [Practice Coding Problems](#coding-problems)
 - [Contributing](#contributing)
@@ -205,9 +205,13 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
-## Coding Problems
+## Practice Coding Problems
 
-- [Coding Problems](https://edabit.com/)
+- [Edabit](https://edabit.com/) - A better way to learn programming, you learn to code with 10,000+ interative challenges. 
+- [Screeps](https://screeps.com/) - It's an open-source game for programmers, wherein the core mechanic is programming your units' AI. You control your colony by writing JavaScript.
+- [Kattis](https://open.kattis.com/) - Here you can find hundreds of programming problems to solve. 
+- [Practity](https://practity.com/) - Python Practice Problems For Beginners. 
+- [Codeabbey](https://www.codeabbey.com/) - Collection of programming problems to practice solving, learn to program and code, and win certificates.
 
 ## Contributing
 
