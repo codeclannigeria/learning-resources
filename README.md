@@ -118,6 +118,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Introduction to Git In 16 Minutes](https://vickyikechukwu.hashnode.dev/introduction-to-git-in-16-minutes)
 - [How to Create GitHub Draft Pull Requests](https://blog.idrisolubisi.com/how-to-create-github-draft-pull-requests)
 - [Start verifying your commits on GitHub in ~5 minutes](https://ozzie.sh/start-verifying-your-commits-on-github-in-5-minutes)
+- [List of all Git Commands](https://blog.vimalverma.in/list-of-all-git-commands)
+- [Git all-in-one cheat sheet: A collection of the most useful git commands](https://blog.learncodeonline.in/git-all-in-one-cheat-sheet-a-collection-of-the-most-useful-git-commands)
+- [GitHub - A complete guide](https://devhankering.hashnode.dev/github-a-complete-guide)
+- [A Git Cheatsheet Of Commands Every Developer Should Use](https://ravimengar.hashnode.dev/a-git-cheatsheet-of-commands-every-developer-should-use)
+- [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 
 ## UI/UX Design
