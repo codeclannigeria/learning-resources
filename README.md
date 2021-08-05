@@ -160,6 +160,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [How to use GitHub | What is GitHub | Git and GitHub Tutorial | Edureka](https://www.youtube.com/watch?v=PQsJR8ci3J0)
 - [Git & GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 - [Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics](https://www.youtube.com/watch?v=0fKg7e37bQE)
+- [Git and GitHub Tutorial For Beginners | Full Course](https://www.youtube.com/watch?v=3fUbBnN_H2c)
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
+- [Git Tutorial - Telusko](https://www.youtube.com/watch?v=OdbBmvfThJY&list=PLsyeobzWxl7q2eaUkorLZExfd7qko9sZC)
+- [Git & GitHub Crash Course For Beginners - Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://www.youtube.com/watch?v=DVRQoVRzMIY)
 
 
 ## UI/UX Design
