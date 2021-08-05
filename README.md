@@ -9,6 +9,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Mobile Development](#mobile-development)
 - [UI/UX Design](#uiux-design)
 - [DevOps](#devops)
+- [Git](#git)
 - [Data Science/ Machine Learning](#data-science-machine-learning)
 - [Practice Coding Problems](#coding-problems)
 - [Contributing](#contributing)
