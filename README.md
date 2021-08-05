@@ -123,7 +123,10 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [GitHub - A complete guide](https://devhankering.hashnode.dev/github-a-complete-guide)
 - [A Git Cheatsheet Of Commands Every Developer Should Use](https://ravimengar.hashnode.dev/a-git-cheatsheet-of-commands-every-developer-should-use)
 - [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-
+- [Git and GitHub SSH Configuration](https://chrisdevcode.hashnode.dev/git-and-github-ssh-configuration)
+- [Getting Started with GitHub CLI](https://onyxcode.net/gh-cli-getting-started)
+- [How to use Git and GitHub inside of VS Code Editor](https://blog.thefierycoder.tech/how-to-use-git-and-github-inside-of-vs-code-editor)
+- [Two Git commands you probably missed in your daily routine](https://thelinuxli.ch/two-git-commands-you-probably-missed-in-your-daily-routine)
 
 ## UI/UX Design
 
