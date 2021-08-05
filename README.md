@@ -151,6 +151,10 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Manage Your Versions with Git (Part I)](https://www.coursera.org/projects/git-1)
 - [Manage Your Versions with Git (Part II)](https://www.coursera.org/projects/git-2)
 - [Learn Gitpro-logo- Codecademy](https://www.codecademy.com/learn/learn-git)
+- [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [Git: Become an Expert in Git & GitHub in 4 Hours](https://www.udemy.com/course/git-expert-4-hours/)
+- [Git Essentials: Mini Course](https://www.udemy.com/course/git-essentials-mini-course/)
+- [How Git Works- Plurasight](https://www.pluralsight.com/courses/how-git-works)
 
 
 ## UI/UX Design
