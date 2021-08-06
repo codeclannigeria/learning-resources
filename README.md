@@ -222,7 +222,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Interview Cake](https://www.interviewcake.com/) - A study tool that preps software engineering candidates for programming interviews.
 - [Testdome](https://www.testdome.com/) - Programming and Interview Online Assessment Tests. 
 - [Rosalind](http://rosalind.info/problems/locations/) - A platform for learning bioinformatics and programming through problem solving. 
-
+- [Code Jam](https://codingcompetitions.withgoogle.com/codejam) - Google’s longest running global coding competition. Code Jam, calls on programmers around the world to solve challenging, algorithmic puzzles against the clock. 
+- [Kick Start](https://codingcompetitions.withgoogle.com/kickstart) - Kick Start offers coders around the world the chance to develop and hone their programming skills through online-hosted competition rounds. 
+- [Reply Challenges](https://challenges.reply.com/tamtamy/home.action) - A series of challenges created by Replyers and open to anyone who loves technology and online competitions. 
+- [Pramp](https://www.pramp.com/#/) - Practice Mock Interviews & Coding Challenges. 
+- [interviewing.io](https://interviewing.io/) - Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies. 
 
 ## Contributing
 
