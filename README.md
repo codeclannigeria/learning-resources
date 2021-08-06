@@ -11,7 +11,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [DevOps](#devops)
 - [Git/GitHub](#gitgithub)
 - [Data Science/ Machine Learning](#data-science-machine-learning)
-- [Practice Coding Problems](#coding-problems)
+- [Practice Coding Problems](#practice-coding-problems)
 - [Contributing](#contributing)
 
 ## Frontend Development
