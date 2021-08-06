@@ -211,7 +211,13 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Screeps](https://screeps.com/) - It's an open-source game for programmers, wherein the core mechanic is programming your units' AI. You control your colony by writing JavaScript.
 - [Kattis](https://open.kattis.com/) - Here you can find hundreds of programming problems to solve. 
 - [Practity](https://practity.com/) - Python Practice Problems For Beginners. 
-- [Codeabbey](https://www.codeabbey.com/) - Collection of programming problems to practice solving, learn to program and code, and win certificates.
+- [Codeabbey](https://www.codeabbey.com/) lra- Collection of programming problems to practice solving, learn to program and code, and win certificates.
+- [Geektastic](https://geektastic.com/) - Technical Assesment & Code Challenge Platform.
+- [Halite](https://www.halite.io/) - An artificial intelligence programming challenge created by Two Sigma, in which players build bots using the coding language of their choice to compete in an original online multiplayer game. 
+- [CodeGym](https://codegym.cc/) - An online course for learning Java programming from scratch. 
+- [CodePen](https://codepen.io/challenges) - A platform that offers fun opportunities for leveling up your skills by building things. 
+- [HireVue](https://www.hirevue.com/) - Helps global enterprises gain a competitive advantage in the modern talent marketplace with video interviewing software, conversational AI, and pre-hire assessments.
+
 
 ## Contributing
 
