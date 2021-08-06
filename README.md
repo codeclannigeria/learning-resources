@@ -238,7 +238,12 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [A2 Online Judge](https://a2oj.com/) - A curated list of problems sequenced in ladder to practice and master competitive coding. 
 - [Project Euler](https://projecteuler.net/) - Solve computational and mathematical problems using your programming skills.              
 - [AtCoder](https://atcoder.jp/) - Highly recommended for its Beginner Contests. Known for it's quality problems. Do give it a try if you're getting started with CP.
-
+- [DMOJ: Modern Online Judge](https://dmoj.ca/) - Contest platform and archive of programming problems.                  
+- [Rose Code](https://www.rosecode.net/) - Programming challenges with leaderboards and blog posts.                                  
+- [Coderbyte](https://coderbyte.com/) - Programming challenges and specific routes to help learn specific skills.                 
+- [Code Golf](https://code.golf/) - Programming challenges with individual leaderboards for problems.                         
+- [Daily Coding Problem](https://www.dailycodingproblem.com/) - Get emailed a new coding problem everyday.                                              
+- [Halite](https://halite.io/) - Create AI to face off against other people’s AI. More specialized in AI.                 
 
 ## Contributing
 
