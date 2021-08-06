@@ -244,6 +244,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Code Golf](https://code.golf/) - Programming challenges with individual leaderboards for problems.                         
 - [Daily Coding Problem](https://www.dailycodingproblem.com/) - Get emailed a new coding problem everyday.                                              
 - [Halite](https://halite.io/) - Create AI to face off against other people’s AI. More specialized in AI.                 
+- [StanFord ACM ICPC](https://github.com/jaehyunp/stanfordacm) - Stanford Notebook provides printable templates usable during online/on-site contests.     
+| [Exercism](https://exercism.io/) - Solve programming challenges from your terminal.                                          
+| [DailyCodingProblem](https://www.dailycodingproblem.com/) - Get exceptionally good at coding interviews by solving one problem every day.             
+| [acmp.ru](https://acmp.ru/) - Russian programming contests.                                                             
+| [Timus Online Judge](https://acm.timus.ru/?locale=en) - Programming contests with online judging system.   
 
 ## Contributing
 
