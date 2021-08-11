@@ -40,7 +40,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Interview Questions](https://github.com/harishekhar/frontend-interview-questions)
 - [Awesome Web Development Resources](https://github.com/MarkoDenic/web-development-resources)
 - [The Best Frontend JavaScript Interview Questions: Answers](https://github.com/bcherny/frontend-interview-questions)
-- [Awesome HTML/CSS/JS Tips]cd learning-rs(https://github.com/markodenic/awesome-html-css-js-tips)
+- [Awesome HTML/CSS/JS Tips](https://github.com/markodenic/awesome-html-css-js-tips)
 - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
 - [HTML, CSS, and Javascript for Web Developers](https://www.classcentral.com/course/html-css-javascript-for-web-developers-4270)
 - [Programming Foundations with JavaScript, HTML and CSS](https://www.classcentral.com/course/duke-programming-web-4256)
