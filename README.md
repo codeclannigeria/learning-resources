@@ -37,7 +37,6 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Javascript For Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
 - [30 Seconds Of Code](https://github.com/30-seconds/30-seconds-of-code)
 - [33 Concepts Every Javascript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
-  <li><a href="https://www.classcentral.com/course/introhtml-4307?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Introduction to HTML5</a></li>
 - [Introduction to HTML5](https://www.classcentral.com/course/introhtml-4307?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021)
 - [Functional Programming In Javascript](https://github.com/Asabeneh/Functional-Programming-in-JavaScript)
 - [Learn To Code Javascript](https://github.com/GalvanizeOpenSource/Learn-To-Code-JavaScript)
