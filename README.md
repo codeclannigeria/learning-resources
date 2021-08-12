@@ -27,6 +27,8 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Don’t Fear the Internet](http://www.dontfeartheinternet.com/)
 - [Front End Development Libraries](https://www.classcentral.com/course/freecodecamp-front-end-libraries-34061)
 - [Intro to HTML and CSS](https://www.classcentral.com/course/udacity-intro-to-html-and-css-2659?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programcming_july_2021)
+- [Master the Basics of HTML5 & CSS3: Beginner Web Development](https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-XOO.vj_kLoFIKkCA_..iPg&utm_medium=udemyads&utm_source=aff-campaign)
+- [Learn HTML & CSS: How To Start Your Web Development Career](https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-_DOkslmcJoCEChR4iCx5bw&utm_medium=udemyads&utm_source=aff-campaign)
 - [HTML Introduction Course](https://www.udemy.com/course/html-introduction-course-learn-html-in-2-hours/)
 - [Learn Practical HTML Crash Course in 85-Minutes](https://www.udemy.com/course/practical-html/)
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
