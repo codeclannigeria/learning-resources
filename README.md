@@ -26,12 +26,17 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [Don’t Fear the Internet](http://www.dontfeartheinternet.com/)
 - [Front End Development Libraries](https://www.classcentral.com/course/freecodecamp-front-end-libraries-34061)
-- [Intro to HTML and CSS](https://www.classcentral.com/course/udacity-intro-to-html-and-css-2659?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programcming_july_2021)
+- [Intro to HTML and CSS](https://www.classcentral.com/course/udacity-intro-to-html-and-css-2659?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programcming_july_2021)cd learnin
+- [HTML Introduction Course](https://www.udemy.com/course/html-introduction-course-learn-html-in-2-hours/)
+- [Learn Practical HTML Crash Course in 85-Minutes](https://www.udemy.com/course/practical-html/)
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Web Development By Doing: HTML / CSS From Scratch](https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-wJX42730UtT4Yv9feNvCuQ&utm_medium=udemyads&utm_source=aff-campaign)
 - [30 days of Javascript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 - [Javascript For Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone)
 - [30 Seconds Of Code](https://github.com/30-seconds/30-seconds-of-code)
 - [33 Concepts Every Javascript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
+  <li><a href="https://www.classcentral.com/course/introhtml-4307?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021">Introduction to HTML5</a></li>
+- [Introduction to HTML5](https://www.classcentral.com/course/introhtml-4307?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_july_2021)
 - [Functional Programming In Javascript](https://github.com/Asabeneh/Functional-Programming-in-JavaScript)
 - [Learn To Code Javascript](https://github.com/GalvanizeOpenSource/Learn-To-Code-JavaScript)
 - [Front-End Web UI Frameworks and Tools](https://www.classcentral.com/course/web-frameworks-4240)
