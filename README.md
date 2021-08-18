@@ -218,6 +218,8 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Digital Skills: User Experience](https://www.futurelearn.com/courses/digital-skills-user-experience) - User Experience by Accenture
 - [Product Design by Google](https://www.udacity.com/course/product-design--ud509) - Validation and UX through Design Sprints
 - [HackDesign](https://hackdesign.org/lessons) - An easy to follow design course for people who do amazing things
+- [Introduction to User Experience Design](https://www.coursera.org/learn/user-experience-design) - Introduction to User Experience Design by Coursera
+
 
 ## Data Science/ Machine Learning
 
