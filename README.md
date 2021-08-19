@@ -78,6 +78,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Learn MongoDB for Node.js](https://www.udemy.com/course/mongoosejs-essentials/)
 - [Learn MongoDB](https://university.mongodb.com/)
 - [Learn C#](https://dotnet.microsoft.com/learn/csharp)
+- [Backend Web Development with Python - Full Course](https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/)
 - [Django (2.0): An Introduction for Beginners (Playlist)](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
 - [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y&t=151s)
 - [Build an API with DjangoBuild an API with Django](https://www.youtube.com/watch?v=RPsDhoWY_kc&list=PLLRM7ROnmA9HzbIXYN6D3wOZ0wUrqNs_d)
@@ -221,20 +222,14 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 ## Data Science/ Machine Learning
 
----
-
+- [Nutshell Machine Learning] - Your go to repo for any resource on machine learning.
 - [AWS Machine learning scholarship Challenge on Udacity (ends July 31st, 2020)](https://sites.google.com/udacity.com/aws-machine-learning/faqs/scholarship-faqs?authuser=0)
-
+- [Python For Data Science](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
 - [(ONGOING) The Annual Bertelsmann Tech Scholarship for Cloud, Data Science and AI (ends November 16th, 2020)](https://www.udacity.com/bertelsmann-tech-scholarships)
-
 - [Machine Learning on dotnet](https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro)
-
 - [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python) - Machine Learning can be an incredibly beneficial tool to uncover hidden insights and predict future trends.
-
 - [Machine learning with Apache SystemML](https://cognitiveclass.ai/courses/machine-learning-apache-systemml) - Apache SystemML is a declarative style language designed for large-scale machine learning. It provides automatic generation of optimized runtime plans ranging from single-node, to in-memory, to distributed computations on Apache Hadoop and Apache Spark. SystemML algorithms are expressed in R-like or Python-like syntax that includes linear algebra primitives, statistical functions and ML-specific constructs.
-
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) - TensorFlow is an open source machine learning framework which is largely used by developers now. It is used for implementing machine learning and deep learning applications and deploying models as web applications.
-
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 ## Practice Coding Problems
