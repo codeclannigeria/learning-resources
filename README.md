@@ -97,21 +97,13 @@ All the FREE learning resources in one place. These resources are strictly recom
 ## DevOps
 
 - [AWS DevOps CI/CD](https://www.udemy.com/course/nodejs-cicd-aws-codepipeline-codebuild-mocha-zero-to-hero/) - CodePipeline, Elastic Beanstalk and Mocha
-
 - [Azure Devops Engineer Path on Pluralsight (Free)](https://app.pluralsight.com/channels/details/46aa40c5-1342-477f-8d49-122caceb6cbc)
-
 - [Learn Devops](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
-
 - [Ms Learn Devops Engineer Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
-
 - [Cloud Bees University - Jenkins Fundamentals](https://standard.cbu.cloudbees.com/cloudbees-university-jenkins-fundamentals)
-
 - [Introduction to AWS](https://aws.amazon.com/getting-started/?nc2=h_ql_le_gs)
-
 - [Docker Essentials](https://www.udemy.com/course/docker-essentials/)
-
 - [MsBuild Cloud Skills Challenge (Free certification Vouchers)](https://mybuild.microsoft.com/cloud-skills-challenge)
-
 - [Ansible Fundamentals](https://www.udemy.com/course/ansible-essentials-simplicity-in-automation/)
 
 ## Git/GitHub
@@ -215,6 +207,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 ## UI/UX Design
 
 - [UI/UX Design Articles](https://www.notion.so/Design-Articles-Resources-ddaa7bfb624f4f61a8669ebc1b175b5d) - UI/UX Design Articles and Resources
+- [Design Resources For Developers](https://github.com/ankit404/design-resources) - A curated list of FREE design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.)
 - [UI / UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design) - UI / UX Design Specialization
 - [Digital Skills: User Experience](https://www.futurelearn.com/courses/digital-skills-user-experience) - User Experience by Accenture
 - [Product Design by Google](https://www.udacity.com/course/product-design--ud509) - Validation and UX through Design Sprints
