@@ -229,7 +229,10 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Python For Data Science](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
 - [(ONGOING) The Annual Bertelsmann Tech Scholarship for Cloud, Data Science and AI (ends November 16th, 2020)](https://www.udacity.com/bertelsmann-tech-scholarships)
 - [Machine Learning on dotnet](https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro)
-- [Data Science Resources](https://github.com/sherxon/DataScienceResources)
+- [Data Science Resources](https://github.com/sherxon/DataScienceResources) - Open Source Data Science Resources.
+- [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap) - A roadmap to start your data science career.
+- [](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers. 
+- [Data Science Interview Questions And Answers](https://github.com/iamtodor/data-science-interview-questions-and-answers) - Data science interview questions with answers.
 - [Machine Learning With Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts.
 - [Cognitive Class - Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python) - Machine Learning can be an incredibly beneficial tool to uncover hidden insights and predict future trends.
 - [Machine learning with Apache SystemML](https://cognitiveclass.ai/courses/machine-learning-apache-systemml) - Apache SystemML is a declarative style language designed for large-scale machine learning. It provides automatic generation of optimized runtime plans ranging from single-node, to in-memory, to distributed computations on Apache Hadoop and Apache Spark. SystemML algorithms are expressed in R-like or Python-like syntax that includes linear algebra primitives, statistical functions and ML-specific constructs.
