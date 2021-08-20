@@ -27,6 +27,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Don’t Fear the Internet](http://www.dontfeartheinternet.com/)
 - [HTML5 Website Templates](https://github.com/learning-zone/website-templates#html5-website-templates-for-begginers-and-professionals) - A repositoroty that contains 150+ Website Templates.
 - [Front End Development Libraries](https://www.classcentral.com/course/freecodecamp-front-end-libraries-34061)
+- [Javascript Testing A-Z](https://github.com/goldbergyoni/various-testing-examples) - JavaScript & Node.js testing workshop, from A-Z)
 - [Intro to HTML and CSS](https://www.classcentral.com/course/udacity-intro-to-html-and-css-2659?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programcming_july_2021)
 - [Master the Basics of HTML5 & CSS3: Beginner Web Development](https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-XOO.vj_kLoFIKkCA_..iPg&utm_medium=udemyads&utm_source=aff-campaign)
 - [Learn HTML & CSS: How To Start Your Web Development Career](https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-_DOkslmcJoCEChR4iCx5bw&utm_medium=udemyads&utm_source=aff-campaign)
@@ -210,6 +211,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [UI/UX Design Articles](https://www.notion.so/Design-Articles-Resources-ddaa7bfb624f4f61a8669ebc1b175b5d) - UI/UX Design Articles and Resources
 - [Design Resources For Developers](https://github.com/ankit404/design-resources) - A curated list of FREE design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.)
 - [UI / UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design) - UI / UX Design Specialization
+- [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list.
 - [Digital Skills: User Experience](https://www.futurelearn.com/courses/digital-skills-user-experience) - User Experience by Accenture
 - [Product Design by Google](https://www.udacity.com/course/product-design--ud509) - Validation and UX through Design Sprints
 - [HackDesign](https://hackdesign.org/lessons) - An easy to follow design course for people who do amazing things
@@ -225,6 +227,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Data Science Resources](https://github.com/sherxon/DataScienceResources) - Open Source Data Science Resources.
 - [Data Science Interview Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. 
 - [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap) - A roadmap to start your data science career.
+- [Data Science Programming problems](https://github.com/GalvanizeOpenSource/100-ds-problems) - Here are 100 data science programming problems.
 - [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers. 
 - [Data Science Interview Questions And Answers](https://github.com/iamtodor/data-science-interview-questions-and-answers) - Data science interview questions with answers.
 - [Machine Learning With Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts.
