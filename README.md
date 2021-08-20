@@ -25,6 +25,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Web Coding Fundamentals: HTML, CSS and Javascript](https://www.classcentral.com/course/kadenze-web-coding-fundamentals-html-css-and-javascript-3781)
 - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [Don’t Fear the Internet](http://www.dontfeartheinternet.com/)
+- [HTML5 Website Templates](https://github.com/learning-zone/website-templates#html5-website-templates-for-begginers-and-professionals) - A repositoroty that contains 150+ Website Templates.
 - [Front End Development Libraries](https://www.classcentral.com/course/freecodecamp-front-end-libraries-34061)
 - [Intro to HTML and CSS](https://www.classcentral.com/course/udacity-intro-to-html-and-css-2659?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programcming_july_2021)
 - [Master the Basics of HTML5 & CSS3: Beginner Web Development](https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-XOO.vj_kLoFIKkCA_..iPg&utm_medium=udemyads&utm_source=aff-campaign)
