@@ -220,12 +220,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Nutshell Machine Learning](https://github.com/EdemGold/Nutshell-Machine-Learning) - Your go to repo for any resource on machine learning.
 - [AWS Machine learning scholarship Challenge on Udacity (ends July 31st, 2020)](https://sites.google.com/udacity.com/aws-machine-learning/faqs/scholarship-faqs?authuser=0)
 - [Python For Data Science](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
-- [(ONGOING) The Annual Bertelsmann Tech Scholarship for Cloud, Data Science and AI (ends November 16th, 2020)](https://www.udacity.com/bertelsmann-tech-scholarships)
 - [Machine Learning on dotnet](https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro)
 - [Data Science Resources](https://github.com/sherxon/DataScienceResources) - Open Source Data Science Resources.
 - [Data Science Interview Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. 
 - [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap) - A roadmap to start your data science career.
-- [](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers. 
+- [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers. 
 - [Data Science Interview Questions And Answers](https://github.com/iamtodor/data-science-interview-questions-and-answers) - Data science interview questions with answers.
 - [Machine Learning With Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts.
 - [Cognitive Class - Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python) - Machine Learning can be an incredibly beneficial tool to uncover hidden insights and predict future trends.
