@@ -227,6 +227,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Data Science Resources](https://github.com/sherxon/DataScienceResources) - Open Source Data Science Resources.
 - [Data Science Interview Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. 
 - [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap) - A roadmap to start your data science career.
+- [Start Machine Learning](https://github.com/louisfb01/start-machine-learning-in-2020) - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
 - [Data Science Programming problems](https://github.com/GalvanizeOpenSource/100-ds-problems) - Here are 100 data science programming problems.
 - [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers. 
 - [Data Science Interview Questions And Answers](https://github.com/iamtodor/data-science-interview-questions-and-answers) - Data science interview questions with answers.
