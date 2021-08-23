@@ -16,6 +16,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 ## Frontend Development
 
+- [Web Dev Resources](https://github.com/Mannuel25/web-dev-resources) - Full resoucres for web developers.
 - [Frontend Developer Roadmap](https://roadmap.sh/frontend) - A roadmap to becoming a frontend developer
 - [HTML Crash Course](https://www.youtube.com/playlist?list=PLEu7Y7_blvLXlM820Uy30N8ay-eoZVyIK)
 - [CSS Crash Course](https://www.youtube.com/playlist?list=PLEu7Y7_blvLVwibRK9szNWmTios4OsLF2)
@@ -25,7 +26,9 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Web Coding Fundamentals: HTML, CSS and Javascript](https://www.classcentral.com/course/kadenze-web-coding-fundamentals-html-css-and-javascript-3781)
 - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [Don’t Fear the Internet](http://www.dontfeartheinternet.com/)
+- [HTML5 Website Templates](https://github.com/learning-zone/website-templates#html5-website-templates-for-begginers-and-professionals) - A repositoroty that contains 150+ Website Templates.
 - [Front End Development Libraries](https://www.classcentral.com/course/freecodecamp-front-end-libraries-34061)
+- [Javascript Testing A-Z](https://github.com/goldbergyoni/various-testing-examples) - JavaScript & Node.js testing workshop, from A-Z)
 - [Intro to HTML and CSS](https://www.classcentral.com/course/udacity-intro-to-html-and-css-2659?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programcming_july_2021)
 - [Master the Basics of HTML5 & CSS3: Beginner Web Development](https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-XOO.vj_kLoFIKkCA_..iPg&utm_medium=udemyads&utm_source=aff-campaign)
 - [Learn HTML & CSS: How To Start Your Web Development Career](https://www.udemy.com/course/how-i-landed-a-web-development-job-earned-5k-freelancing/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-_DOkslmcJoCEChR4iCx5bw&utm_medium=udemyads&utm_source=aff-campaign)
@@ -97,21 +100,13 @@ All the FREE learning resources in one place. These resources are strictly recom
 ## DevOps
 
 - [AWS DevOps CI/CD](https://www.udemy.com/course/nodejs-cicd-aws-codepipeline-codebuild-mocha-zero-to-hero/) - CodePipeline, Elastic Beanstalk and Mocha
-
 - [Azure Devops Engineer Path on Pluralsight (Free)](https://app.pluralsight.com/channels/details/46aa40c5-1342-477f-8d49-122caceb6cbc)
-
 - [Learn Devops](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
-
 - [Ms Learn Devops Engineer Path](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
-
 - [Cloud Bees University - Jenkins Fundamentals](https://standard.cbu.cloudbees.com/cloudbees-university-jenkins-fundamentals)
-
 - [Introduction to AWS](https://aws.amazon.com/getting-started/?nc2=h_ql_le_gs)
-
 - [Docker Essentials](https://www.udemy.com/course/docker-essentials/)
-
 - [MsBuild Cloud Skills Challenge (Free certification Vouchers)](https://mybuild.microsoft.com/cloud-skills-challenge)
-
 - [Ansible Fundamentals](https://www.udemy.com/course/ansible-essentials-simplicity-in-automation/)
 
 ## Git/GitHub
@@ -215,7 +210,9 @@ All the FREE learning resources in one place. These resources are strictly recom
 ## UI/UX Design
 
 - [UI/UX Design Articles](https://www.notion.so/Design-Articles-Resources-ddaa7bfb624f4f61a8669ebc1b175b5d) - UI/UX Design Articles and Resources
+- [Design Resources For Developers](https://github.com/ankit404/design-resources) - A curated list of FREE design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.)
 - [UI / UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design) - UI / UX Design Specialization
+- [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list.
 - [Digital Skills: User Experience](https://www.futurelearn.com/courses/digital-skills-user-experience) - User Experience by Accenture
 - [Product Design by Google](https://www.udacity.com/course/product-design--ud509) - Validation and UX through Design Sprints
 - [HackDesign](https://hackdesign.org/lessons) - An easy to follow design course for people who do amazing things
@@ -224,12 +221,19 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 ## Data Science/ Machine Learning
 
-- [Nutshell Machine Learning] - Your go to repo for any resource on machine learning.
+- [Nutshell Machine Learning](https://github.com/EdemGold/Nutshell-Machine-Learning) - Your go to repo for any resource on machine learning.
 - [AWS Machine learning scholarship Challenge on Udacity (ends July 31st, 2020)](https://sites.google.com/udacity.com/aws-machine-learning/faqs/scholarship-faqs?authuser=0)
 - [Python For Data Science](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
-- [(ONGOING) The Annual Bertelsmann Tech Scholarship for Cloud, Data Science and AI (ends November 16th, 2020)](https://www.udacity.com/bertelsmann-tech-scholarships)
 - [Machine Learning on dotnet](https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro)
-- [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python) - Machine Learning can be an incredibly beneficial tool to uncover hidden insights and predict future trends.
+- [Data Science Resources](https://github.com/sherxon/DataScienceResources) - Open Source Data Science Resources.
+- [Data Science Interview Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. 
+- [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap) - A roadmap to start your data science career.
+- [Start Machine Learning](https://github.com/louisfb01/start-machine-learning-in-2020) - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
+- [Data Science Programming problems](https://github.com/GalvanizeOpenSource/100-ds-problems) - Here are 100 data science programming problems.
+- [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers. 
+- [Data Science Interview Questions And Answers](https://github.com/iamtodor/data-science-interview-questions-and-answers) - Data science interview questions with answers.
+- [Machine Learning With Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts.
+- [Cognitive Class - Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python) - Machine Learning can be an incredibly beneficial tool to uncover hidden insights and predict future trends.
 - [Machine learning with Apache SystemML](https://cognitiveclass.ai/courses/machine-learning-apache-systemml) - Apache SystemML is a declarative style language designed for large-scale machine learning. It provides automatic generation of optimized runtime plans ranging from single-node, to in-memory, to distributed computations on Apache Hadoop and Apache Spark. SystemML algorithms are expressed in R-like or Python-like syntax that includes linear algebra primitives, statistical functions and ML-specific constructs.
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) - TensorFlow is an open source machine learning framework which is largely used by developers now. It is used for implementing machine learning and deep learning applications and deploying models as web applications.
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
