@@ -53,6 +53,9 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Awesome HTML/CSS/JS Tips](https://github.com/markodenic/awesome-html-css-js-tips)
 - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
 - [HTML, CSS, and Javascript for Web Developers](https://www.classcentral.com/course/html-css-javascript-for-web-developers-4270)
+- [Javascript For Beginners Full Course](https://youtu.be/PXvI0ln6Nws)
+- [HTML and CSS tutorial for beginners](https://youtu.be/keJn4LSNuHk)
+- [Introduction To Responsive Web Design - freeCodeCamp](https://youtu.be/srvUrASNj0s)
 - [Programming Foundations with JavaScript, HTML and CSS](https://www.classcentral.com/course/duke-programming-web-4256)
 - [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-libraries/)
 - [Bootstrap Crash Course](https://www.youtube.com/watch?v=JFCE6iDMmgg&list=PL0JqkD3WB5bbSoV-mnRxtro7o6RA_-KPp)
@@ -68,6 +71,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Frontend UI Developer Interview Questions](https://github.com/sunil12738/frontend-developer-interview-questions)
 - [Learn Vue on Scrimba](https://scrimba.com/course/glearnvue)
 - [Learn Angular](https://www.youtube.com/watch?v=2OHbjep_WjQ)
+- [Bootstrap 5 crash Course -Traversy Media](https://youtu.be/4sosXZsdy-s)
 - [Build and deploy a Portfolio](https://scrimba.com/course/gportfolio)
 - [Fullstack Vue (From beginner to advanced)](https://dl.ebooksworld.ir/motoman/fullstack-vue-book-r8.www.EBooksWorld.ir.pdf)
 - [React + Redux](https://www.sololearn.com/Course/react/) - React is appreciated for its simplicity, ease of learning, native approach, reusable component logic, performance, ease of testing and debugging.
