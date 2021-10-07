@@ -16,12 +16,13 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 ## Frontend Development
 
-- [Web Dev Resources](https://github.com/Mannuel25/web-dev-resources) - Full resoucres for web developers.
+- [Web Dev Resources](https://github.com/chryz-hub/web-dev-resources) - Full resoucres for web developers.
 - [Frontend Developer Roadmap](https://roadmap.sh/frontend) - A roadmap to becoming a frontend developer
 - [HTML Crash Course](https://www.youtube.com/playlist?list=PLEu7Y7_blvLXlM820Uy30N8ay-eoZVyIK)
 - [CSS Crash Course](https://www.youtube.com/playlist?list=PLEu7Y7_blvLVwibRK9szNWmTios4OsLF2)
 - [Learn Emmet](https://www.youtube.com/watch?v=5KctnODbk8w&t=52s)
-- [Learn CSSGrid](https://cssgrid.io/)
+- [Learn HTML and CSS From Scratch - freeCodeCamp](https://youtu.be/mU6anWqZJcc)
+- [Learn CSS Grid](https://cssgrid.io/)
 - [Foundations of Front-End Web Development](https://www.udemy.com/course/foundations-of-front-end-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-mf814mAIGx6aIlDbmfeu8Q&utm_medium=udemyads&utm_source=aff-campaign)
 - [Web Coding Fundamentals: HTML, CSS and Javascript](https://www.classcentral.com/course/kadenze-web-coding-fundamentals-html-css-and-javascript-3781)
 - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
