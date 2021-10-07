@@ -70,6 +70,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Front end Interview Questions](https://github.com/khan4019/front-end-Interview-Questions)
 - [Frontend UI Developer Interview Questions](https://github.com/sunil12738/frontend-developer-interview-questions)
 - [Learn Vue on Scrimba](https://scrimba.com/course/glearnvue)
+- [Learn Bootstrap5 and SAASS by building a Portfolio Website](https://youtu.be/iJKCj8uAHz8)
 - [Learn Angular](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 - [Bootstrap 5 crash Course -Traversy Media](https://youtu.be/4sosXZsdy-s)
 - [Build and deploy a Portfolio](https://scrimba.com/course/gportfolio)
@@ -218,6 +219,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Design Resources For Developers](https://github.com/ankit404/design-resources) - A curated list of FREE design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.)
 - [UI / UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design) - UI / UX Design Specialization
 - [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list.
+- [Figma Design Course - freeCodeCamp](https://youtu.be/D56hs0Twfco)
+- [UI/UX Design Tutorial - freeCodeCamp](https://youtu.be/c9Wg6Cb_YlU)
+- [User Experience Design Course with Adobe XD Course](https://youtu.be/68w2VwalD5w)
+- [UX Design Course Tutorial for Beginners: User Experience Deisgn Fundamentals](https://youtu.be/uL2ZB7XXIgg)
+-[UI Design Tutorial For Beginners](https://youtu.be/OSSn2xW2ANs)
 - [Digital Skills: User Experience](https://www.futurelearn.com/courses/digital-skills-user-experience) - User Experience by Accenture
 - [Product Design by Google](https://www.udacity.com/course/product-design--ud509) - Validation and UX through Design Sprints
 - [HackDesign](https://hackdesign.org/lessons) - An easy to follow design course for people who do amazing things
