@@ -233,7 +233,6 @@ All the FREE learning resources in one place. These resources are strictly recom
 ## Data Science/ Machine Learning
 
 - [Nutshell Machine Learning](https://github.com/EdemGold/Nutshell-Machine-Learning) - Your go to repo for any resource on machine learning.
-- [AWS Machine learning scholarship Challenge on Udacity (ends July 31st, 2020)](https://sites.google.com/udacity.com/aws-machine-learning/faqs/scholarship-faqs?authuser=0)
 - [Python For Data Science](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
 - [Machine Learning on dotnet](https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro)
 - [Data Science Resources](https://github.com/sherxon/DataScienceResources) - Open Source Data Science Resources.
