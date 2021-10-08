@@ -16,12 +16,13 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 ## Frontend Development
 
-- [Web Dev Resources](https://github.com/Mannuel25/web-dev-resources) - Full resoucres for web developers.
+- [Web Dev Resources](https://github.com/chryz-hub/web-dev-resources) - Full resoucres for web developers.
 - [Frontend Developer Roadmap](https://roadmap.sh/frontend) - A roadmap to becoming a frontend developer
 - [HTML Crash Course](https://www.youtube.com/playlist?list=PLEu7Y7_blvLXlM820Uy30N8ay-eoZVyIK)
 - [CSS Crash Course](https://www.youtube.com/playlist?list=PLEu7Y7_blvLVwibRK9szNWmTios4OsLF2)
 - [Learn Emmet](https://www.youtube.com/watch?v=5KctnODbk8w&t=52s)
-- [Learn CSSGrid](https://cssgrid.io/)
+- [Learn HTML and CSS From Scratch - freeCodeCamp](https://youtu.be/mU6anWqZJcc)
+- [Learn CSS Grid](https://cssgrid.io/)
 - [Foundations of Front-End Web Development](https://www.udemy.com/course/foundations-of-front-end-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-mf814mAIGx6aIlDbmfeu8Q&utm_medium=udemyads&utm_source=aff-campaign)
 - [Web Coding Fundamentals: HTML, CSS and Javascript](https://www.classcentral.com/course/kadenze-web-coding-fundamentals-html-css-and-javascript-3781)
 - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
@@ -52,6 +53,9 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Awesome HTML/CSS/JS Tips](https://github.com/markodenic/awesome-html-css-js-tips)
 - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
 - [HTML, CSS, and Javascript for Web Developers](https://www.classcentral.com/course/html-css-javascript-for-web-developers-4270)
+- [Javascript For Beginners Full Course](https://youtu.be/PXvI0ln6Nws)
+- [HTML and CSS tutorial for beginners](https://youtu.be/keJn4LSNuHk)
+- [Introduction To Responsive Web Design - freeCodeCamp](https://youtu.be/srvUrASNj0s)
 - [Programming Foundations with JavaScript, HTML and CSS](https://www.classcentral.com/course/duke-programming-web-4256)
 - [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-libraries/)
 - [Bootstrap Crash Course](https://www.youtube.com/watch?v=JFCE6iDMmgg&list=PL0JqkD3WB5bbSoV-mnRxtro7o6RA_-KPp)
@@ -66,7 +70,9 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Front end Interview Questions](https://github.com/khan4019/front-end-Interview-Questions)
 - [Frontend UI Developer Interview Questions](https://github.com/sunil12738/frontend-developer-interview-questions)
 - [Learn Vue on Scrimba](https://scrimba.com/course/glearnvue)
+- [Learn Bootstrap5 and SAASS by building a Portfolio Website](https://youtu.be/iJKCj8uAHz8)
 - [Learn Angular](https://www.youtube.com/watch?v=2OHbjep_WjQ)
+- [Bootstrap 5 crash Course -Traversy Media](https://youtu.be/4sosXZsdy-s)
 - [Build and deploy a Portfolio](https://scrimba.com/course/gportfolio)
 - [Fullstack Vue (From beginner to advanced)](https://dl.ebooksworld.ir/motoman/fullstack-vue-book-r8.www.EBooksWorld.ir.pdf)
 - [React + Redux](https://www.sololearn.com/Course/react/) - React is appreciated for its simplicity, ease of learning, native approach, reusable component logic, performance, ease of testing and debugging.
@@ -213,6 +219,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Design Resources For Developers](https://github.com/ankit404/design-resources) - A curated list of FREE design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.)
 - [UI / UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design) - UI / UX Design Specialization
 - [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list.
+- [Figma Design Course - freeCodeCamp](https://youtu.be/D56hs0Twfco)
+- [UI/UX Design Tutorial - freeCodeCamp](https://youtu.be/c9Wg6Cb_YlU)
+- [User Experience Design Course with Adobe XD Course](https://youtu.be/68w2VwalD5w)
+- [UX Design Course Tutorial for Beginners: User Experience Deisgn Fundamentals](https://youtu.be/uL2ZB7XXIgg)
+-[UI Design Tutorial For Beginners](https://youtu.be/OSSn2xW2ANs)
 - [Digital Skills: User Experience](https://www.futurelearn.com/courses/digital-skills-user-experience) - User Experience by Accenture
 - [Product Design by Google](https://www.udacity.com/course/product-design--ud509) - Validation and UX through Design Sprints
 - [HackDesign](https://hackdesign.org/lessons) - An easy to follow design course for people who do amazing things
@@ -222,7 +233,6 @@ All the FREE learning resources in one place. These resources are strictly recom
 ## Data Science/ Machine Learning
 
 - [Nutshell Machine Learning](https://github.com/EdemGold/Nutshell-Machine-Learning) - Your go to repo for any resource on machine learning.
-- [AWS Machine learning scholarship Challenge on Udacity (ends July 31st, 2020)](https://sites.google.com/udacity.com/aws-machine-learning/faqs/scholarship-faqs?authuser=0)
 - [Python For Data Science](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
 - [Machine Learning on dotnet](https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro)
 - [Data Science Resources](https://github.com/sherxon/DataScienceResources) - Open Source Data Science Resources.
