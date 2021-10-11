@@ -80,6 +80,13 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 ## Backend Development
 
+- [Django Tutorials for Beginners - thenewboston](https://youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
+- [Django Tutorials - Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+- [Python Django Course for Beginners](https://youtu.be/t7DrJqcUviA)
+- [Django For Beginners - Full Tutorial](https://youtu.be/sm1mokevMWk)
+- [Python Django Tutorial - Full Course for Beginners](https://youtu.be/JT80XhYJdBw)
+- [Python Django Web Framework - Full Course for Beginners](https://youtu.be/F5mRW0jo-U4)
+- [Python Django 7 Hour Course](https://youtu.be/PtQiiknWUcI)
 - [Backend Developer Roadmap](https://roadmap.sh/backend) - A roadmap to becoming a backend developer
 - [Node.js, Express & MongoDb: Build a CRUD Rest Api](https://bezkoder.com/node-express-mongodb-crud-rest-api/)
 - [Node JS API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/)
