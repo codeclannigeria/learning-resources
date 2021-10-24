@@ -102,6 +102,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [The Beginner friendly course for Flutter by Pawan Kumar](https://www.youtube.com/watch?v=6wQwnTIBD1Y)
 - [Getting Started with Flutter](https://www.youtube.com/watch?v=iGCsVisY6g4&list=PLjcKnGTXcK-tv4iv0aEJ4vHiUdB8Ol8z2)
 - [Flutter Bloc Documentation](https://bloclibrary.dev/)
+- [Android Development Course - Build Native Apps with Kotlin Tutorial](https://www.youtube.com/watch?v=Iz08OTTjR04)
 
 ## DevOps
 
