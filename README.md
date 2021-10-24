@@ -104,7 +104,6 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Getting Started with Flutter](https://www.youtube.com/watch?v=iGCsVisY6g4&list=PLjcKnGTXcK-tv4iv0aEJ4vHiUdB8Ol8z2)
 - [Flutter Bloc Documentation](https://bloclibrary.dev/)
 - [Android Development Course - Build Native Apps with Kotlin Tutorial](https://www.youtube.com/watch?v=Iz08OTTjR04)
-- [Ionic Framework 4 - Full Tutorial - iOS / Android App Development](https://www.youtube.com/watch?v=AvbuIRg8_Jg)
 
 ## DevOps
 
