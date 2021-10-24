@@ -77,6 +77,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [Fullstack Vue (From beginner to advanced)](https://dl.ebooksworld.ir/motoman/fullstack-vue-book-r8.www.EBooksWorld.ir.pdf)
 - [React + Redux](https://www.sololearn.com/Course/react/) - React is appreciated for its simplicity, ease of learning, native approach, reusable component logic, performance, ease of testing and debugging.
 - [Angular + NestJS](https://www.sololearn.com/Course/fullstack/) - Angular course is combined with Nest JS for a full stack learning experience, and teaches core concepts of server- and client-side development.
+- [Learn React for free on Scrimba](https://scrimba.com/learn/learnreact)
 
 ## Backend Development
 
