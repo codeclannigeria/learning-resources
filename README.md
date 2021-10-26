@@ -101,6 +101,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [REST API Tutorials (Node, Express & Mongo) by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8)
 - [PHP](https://www.sololearn.com/Course/PHP/) - PHP enables you to create dynamic web pages, develop websites, and generate dynamic content. You’ll also be able to open files; write content to files; and create contact forms, forums, blogs, picture galleries, surveys, social networks, and a whole lot more.
 - [Learn Ruby](https://www.udemy.com/course/ruby-for-absolute-beginners/)- Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. You can build web applications, web servers , system ustilities, database work , blogs , and many more. Some popular sites built using ruby include AirBnB, Hulu and Shopify
+- [Learn Python For Free Scrimba](https://scrimba.com/learn/python)
 
 ## Mobile Development
 
