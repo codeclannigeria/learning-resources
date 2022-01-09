@@ -16,7 +16,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 ## Frontend Development
 
-- [Web Dev Resources](https://github.com/chryz-hub/web-dev-resources) - Full resoucres for web developers.
+- [Web Dev Resources](https://github.com/chryz-hub/web-dev-resources) - Full resources for web developers.
 - [Frontend Developer Roadmap](https://roadmap.sh/frontend) - A roadmap to becoming a frontend developer
 - [HTML Crash Course](https://www.youtube.com/playlist?list=PLEu7Y7_blvLXlM820Uy30N8ay-eoZVyIK)
 - [CSS Crash Course](https://www.youtube.com/playlist?list=PLEu7Y7_blvLVwibRK9szNWmTios4OsLF2)
