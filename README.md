@@ -321,3 +321,11 @@ All the FREE learning resources in one place. These resources are strictly recom
 ## Contributing
 
 Want to add a resource you can recommend? Please send a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
+
+
+### Thanks to all contributors
+
+<a href="https://github.com/codeclannigeria/learning-resources/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeclannigeria/learning-resources" />
+</a>
+
