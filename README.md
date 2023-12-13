@@ -266,6 +266,7 @@ All the FREE learning resources in one place. These resources are strictly recom
 
 ## Practice Coding Problems
 
+- [Karan Projects](https://github.com/karan/Projects) - A collection of coding exercises you can do in any programming language.
 - [Edabit](https://edabit.com/) - A better way to learn programming, you learn to code with 10,000+ interative challenges.
 - [Screeps](https://screeps.com/) - It's an open-source game for programmers, wherein the core mechanic is programming your units' AI. You control your colony by writing JavaScript.
 - [Kattis](https://open.kattis.com/) - Here you can find hundreds of programming problems to solve.
